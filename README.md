@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Akshay Kumar Jogi 👋
 
-<!--
-**akki7424/akki7424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student • Developer • Open-Source Enthusiast
 
-Here are some ideas to get you started:
+I'm a BCA student building a strong foundation in programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Stack Web Development, while building projects and continuously improving my problem-solving skills.
+
+- 🎓 BCA Student
+- 💻 Learning & building with JavaScript, Java and DSA
+- 🌐 Exploring Full-Stack Web Development
+- 🚀 Building projects and strengthening my GitHub
+- 🤝 Open to learning, collaboration and new opportunities
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshaykumarjogi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/akshay.kumar.jogi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/akshaykumarjogi">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,js" />
+</p>
+
+### Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,notion" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akshaykumarjogi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📦 GitHub Overview
+
+| 📌 Metric | 📊 Details |
+|---|---|
+| 📁 Total Repositories | [View repositories](https://github.com/akshaykumarjogi?tab=repositories) |
+| ⭐ Stars Received | See GitHub profile |
+| 🔥 Contribution Streak | See streak above |
+| 💻 Primary Focus | Web Development & Programming |
+| 🧠 Currently Learning | JavaScript • Java • DSA |
+| 🌐 Exploring | Full-Stack Web Development |
