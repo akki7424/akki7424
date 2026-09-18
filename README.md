@@ -57,17 +57,6 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 
 ---
 
-# 📦 GitHub Overview
-
-| 📌 Metric | 📊 Details |
-|---|---|
-| 📁 Total Repositories | [View repositories](https://github.com/akshaykumarjogi?tab=repositories) |
-| ⭐ Stars Received | See GitHub profile |
-| 🔥 Contribution Streak | See streak above |
-| 💻 Primary Focus | Web Development & Programming |
-| 🧠 Currently Learning | JavaScript • Java • DSA |
-| 🌐 Exploring | Full-Stack Web Development |
-
 
 <br clear="both">
 
