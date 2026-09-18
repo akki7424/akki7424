@@ -1,4 +1,4 @@
-# Hi, I'm Akshay Kumar Jogi 👋
+# Hi, I'm Akshay Kumar 👋
 
 ### BCA Student • Developer • Open-Source Enthusiast
 
