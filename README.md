@@ -72,9 +72,9 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshaykumarjogi/akshaykumarjogi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshaykumarjogi/akshaykumarjogi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akshaykumarjogi/akshaykumarjogi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
 </picture>
 
 ###
