@@ -1,6 +1,12 @@
 # Hi, I'm Akshay Kumar 👋
 
-<img src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/gif2.gif" alt="Not Found" align="top-right" width="500" height="auto">
+<p align="center">
+  <img 
+    src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/gif2.gif"
+    alt="Coding GIF"
+    width="400"
+  >
+</p>
 
 ---
 
