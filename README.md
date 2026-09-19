@@ -14,22 +14,6 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshaykumarjogi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/akshay.kumar.jogi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/akshaykumarjogi">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -58,6 +42,32 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 ---
 
 
+
+
+###
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from other developers, collaborating on projects, and connecting with people who enjoy building things.
+
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdFPcNxBhgmMqQTTDvCWBBNVSDKvsSCdvVpLMgZfVsSTVrjmWfCDKXKvrRnhTNQlllHQh">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshaykumarjogi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/akshaykumarjogi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/akshaykumarjogi">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/akshay.kumar.jogi">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 <br clear="both">
 
 <picture data-importer="pacman">
@@ -65,5 +75,3 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" >
 </picture>
-
-###
