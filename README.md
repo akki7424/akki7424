@@ -60,7 +60,7 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 I'm always interested in learning from other developers, collaborating on projects, and connecting with people who enjoy building things.
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdFPcNxBhgmMqQTTDvCWBBNVSDKvsSCdvVpLMgZfVsSTVrjmWfCDKXKvrRnhTNQlllHQh">
+  <a href="mailto:akshaykumarjogi40@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/akshaykumarjogi">
