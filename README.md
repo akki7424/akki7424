@@ -1,16 +1,15 @@
 # Hi, I'm Akshay Kumar 👋
 
-### BCA Student • Developer • Open-Source Enthusiast
+### BCA Student • Developer • Learner
 
 I'm a BCA student building a strong foundation in programming and software development.
 
 Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Stack Web Development, while building projects and continuously improving my problem-solving skills.
 
-- 🎓 BCA Student
 - 💻 Learning & building with JavaScript, Java and DSA
 - 🌐 Exploring Full-Stack Web Development
-- 🚀 Building projects and strengthening my GitHub
-- 🤝 Open to learning, collaboration and new opportunities
+- 🚀 Building projects and applying what I learn
+- 🧠 Improving my problem-solving and development skills
 
 ---
 
