@@ -1,5 +1,9 @@
 # Hi, I'm Akshay Kumar 👋
 
+<img src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/gif2.gif" alt="Not Found" align="top-right" width="500" height="auto">
+
+---
+
 ### BCA Student • Developer • Learner
 
 I'm a BCA student building a strong foundation in programming and software development.
@@ -10,8 +14,6 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 - 🌐 Exploring Full-Stack Web Development
 - 🚀 Building projects and applying what I learn
 - 🧠 Improving my problem-solving and development skills
-  
-<img src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/gif2.gif" alt="Not Found" align="top-right" width="350" height="auto">
 
 ---
 
