@@ -41,7 +41,16 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 
 ---
 
+## 📈 Contribution Activity
+---
 
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" >
+</picture>
 
 
 ###
@@ -57,9 +66,6 @@ I'm always interested in learning from other developers, collaborating on projec
   <a href="https://www.linkedin.com/in/akshaykumarjogi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/akshaykumarjogi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://x.com/akshaykumarjogi">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
@@ -67,11 +73,3 @@ I'm always interested in learning from other developers, collaborating on projec
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" >
-</picture>
