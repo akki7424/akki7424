@@ -10,6 +10,8 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 - 🌐 Exploring Full-Stack Web Development
 - 🚀 Building projects and applying what I learn
 - 🧠 Improving my problem-solving and development skills
+  
+<img src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/gif2.gif" alt="Not Found" align="top-right" width="350" height="auto">
 
 ---
 
