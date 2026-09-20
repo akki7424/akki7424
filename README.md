@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/akki7424/Randon-Gifs/blob/new_data/think2.gif"
+    src="https://github.com/akki7424/Randon-Gifs/blob/main/batter.gif"
     alt="Coding GIF"
     width="400"
   >
