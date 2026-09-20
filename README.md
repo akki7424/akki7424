@@ -44,6 +44,64 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 
 ---
 
+## 📊 GitHub Analytics
+<!-- ========================================================= -->
+<!--                    📊 GITHUB ANALYTICS                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<i>Tracking my coding journey through open-source contributions, consistency, and development insights.</i>
+</p>
+
+<br>
+
+<!-- ================= PROFILE SUMMARY ================= -->
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akki7424&theme=github_dark&utcOffset=5.5"
+    alt="Profile Summary"/>
+</p>
+
+<br>
+
+<!-- ================= STREAK + MOST USED LANGUAGES ================= -->
+
+<table
+align="center"
+width="100%"
+border="0"
+cellspacing="12"
+cellpadding="0"
+style="border:none; border-collapse:separate;">
+
+<tr>
+
+<td align="center" width="62%" valign="middle" style="border:none;">
+
+<img
+width="100%"
+src="https://streak-stats.demolab.com?user=akki7424&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"/>
+
+</td>
+
+<td align="center" width="38%" valign="middle" style="border:none;">
+
+<img
+width="100%"
+src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=akki7424&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
+
+</td>
+
+</tr>
+
+</table>
+
 ## 🔥 Contribution Streak
 
 <p align="center">
