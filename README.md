@@ -1,6 +1,8 @@
 <h1 align="center">
   Hi, <strong>I'm Akshay Kumar Jogi 👋</strong>
   <br>
+  -*-
+  <br>
 <p align="center">BCA Student • Developer • Learner</p>
 </h1>
 
