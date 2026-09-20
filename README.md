@@ -12,6 +12,9 @@
 <hr>
 </p>
 
+<!-- ========================================================= -->
+<!--                    👨‍💻 ABOUT ME                    -->
+<!-- ========================================================= -->
 ## 👨‍💻 About Me
 
 I'm a BCA student building a strong foundation in programming and software development.
@@ -25,6 +28,9 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 
 ---
 
+<!-- ========================================================= -->
+<!--                    💻 TECH STACK                    -->
+<!-- ========================================================= -->
 ## 💻 Tech Stack
 
 ### Languages
@@ -44,15 +50,13 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 
 ---
 
-## 📊 GitHub Analytics
 <!-- ========================================================= -->
 <!--                    📊 GITHUB ANALYTICS                     -->
 <!-- ========================================================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-<i>Tracking my coding journey through open-source contributions, consistency, and development insights.</i>
+<i>A snapshot of my coding journey, contributions, and development activity.</i>
 </p>
 
 <br>
@@ -101,23 +105,6 @@ alt="Top Languages"/>
 </tr>
 
 </table>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akki7424&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akki7424/akki7424/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
