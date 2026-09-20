@@ -9,8 +9,10 @@
     alt="Coding GIF"
     width="400"
   >
-  
+<hr>
 </p>
+
+## 👨‍💻 About Me
 
 I'm a BCA student building a strong foundation in programming and software development.
 
