@@ -1,4 +1,8 @@
-<h1 align="center">Hi, <strong>I'm Akshay Kumar 👋</strong></h1>
+<h1 align="center">
+  Hi, <strong>I'm Akshay Kumar Jogi 👋</strong>
+  <br>
+<p align="center">BCA Student • Developer • Learner</p>
+</h1>
 
 <p align="center">
   <img 
@@ -6,7 +10,7 @@
     alt="Coding GIF"
     width="400"
   >
-  <h2 align="center">BCA Student • Developer • Learner</h2>
+  
 </p>
 
 I'm a BCA student building a strong foundation in programming and software development.
