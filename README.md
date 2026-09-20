@@ -93,7 +93,7 @@ alt="GitHub Streak"/>
 
 <img
 width="100%"
-src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=akki7424&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=akki7424&layout=compact&theme=github_dark&hide_border=true"
 alt="Top Languages"/>
 
 </td>
