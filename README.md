@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/gif2.gif"
+    src="https://github.com/akki7424/Randon-Gifs/blob/new_data/gif1.gif"
     alt="Coding GIF"
     width="400"
   >
