@@ -6,9 +6,8 @@
     alt="Coding GIF"
     width="400"
   >
+  <h1 align="center">BCA Student • Developer • Learner</h1>
 </p>
-
----
 
 ### BCA Student • Developer • Learner
 
