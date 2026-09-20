@@ -10,14 +10,22 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-I'm a BCA student building a strong foundation in programming and software development.
-
-Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Stack Web Development, while building projects and continuously improving my problem-solving skills.
+I'm a BCA student focused on building practical web applications and strengthening my programming fundamentals. Currently working with JavaScript, Java, C, SQL, and Data Structures & Algorithms while exploring full-stack development.
 
 - 💻 Learning & building with JavaScript, Java and DSA
 - 🌐 Exploring Full-Stack Web Development
 - 🚀 Building projects and applying what I learn
 - 🧠 Improving my problem-solving and development skills
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening JavaScript and Java fundamentals
+- Practicing Data Structures & Algorithms
+- Building practical web applications
+- Learning backend and database integration
+- Improving Git/GitHub workflow
 
 ---
 
@@ -85,8 +93,5 @@ I'm always interested in learning from other developers, collaborating on projec
   </a>
   <a href="https://x.com/akshaykumarjogi">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/akshay.kumar.jogi">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
