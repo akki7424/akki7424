@@ -1,4 +1,4 @@
-# Hi, I'm Akshay Kumar 👋
+<h1 align="center">Hi, I'm Akshay Kumar 👋</h1>
 
 <p align="center">
   <img 
