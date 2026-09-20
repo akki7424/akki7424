@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akshay Kumar 👋</h1>
+<h1 align="center">Hi, <strong>I'm Akshay Kumar Jogi👋</strong></h1>
 
 <p align="center">
   <img 
@@ -6,7 +6,7 @@
     alt="Coding GIF"
     width="400"
   >
-  <h1 align="center">BCA Student • Developer • Learner</h1>
+  <h2 align="center">BCA Student • Developer • Learner</h2>
 </p>
 
 ### BCA Student • Developer • Learner
