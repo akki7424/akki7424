@@ -95,7 +95,13 @@ I'm always interested in learning from other developers, collaborating on projec
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 
+  <p align="center">
+  <p align="center">
   <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&animation=twinkling"/>
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1F3A,100:123E6A&animation=twinkling&descColor=FFFFFF"
+    alt="Footer"
+  />
+</p>
+</p>
 </p>
