@@ -98,4 +98,4 @@ I'm always interested in learning from other developers, collaborating on projec
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&animation=twinkling"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=github-dark-blue&animation=twinkling"/>
