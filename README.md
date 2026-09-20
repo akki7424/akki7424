@@ -88,7 +88,6 @@ style="border:none; border-collapse:separate;">
 
 <img
 width="100%"
-  style="vertical-align: middle;"
 align="center"
 src="https://streak-stats.demolab.com?user=akki7424&theme=github-dark-blue&hide_border=true"
 alt="GitHub Streak"/>
@@ -99,7 +98,6 @@ alt="GitHub Streak"/>
 
 <img
 width="100%" 
-style="vertical-align: middle;"
 align="center"
 src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=akki7424&layout=compact&theme=github_dark&hide_border=true"
 alt="Top Languages"/>
