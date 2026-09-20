@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <strong>I'm Akshay Kumar Jogi👋</strong></h1>
+<h1 align="center">Hi, <strong>I'm Akshay Kumar 👋</strong></h1>
 
 <p align="center">
   <img 
@@ -8,8 +8,6 @@
   >
   <h2 align="center">BCA Student • Developer • Learner</h2>
 </p>
-
-### BCA Student • Developer • Learner
 
 I'm a BCA student building a strong foundation in programming and software development.
 
@@ -44,7 +42,7 @@ Currently exploring JavaScript, Java, Data Structures & Algorithms, and Full-Sta
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akshaykumarjogi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=akki7424&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
