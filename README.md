@@ -44,7 +44,7 @@ I'm a BCA student focused on building practical web applications and strengtheni
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma" />
 </p>
 
 ---
